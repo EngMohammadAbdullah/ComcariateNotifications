@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComcariateNumbersNotifications", "ComcariateNumbersNotifications\ComcariateNumbersNotifications.csproj", "{AFD141A5-21EB-4B00-98F5-4B79EFB5B536}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "IbzNumbersNotification", "..\..\..\..\source\repos\IbzNumbersNotification\IbzNumbersNotification\IbzNumbersNotification.njsproj", "{CDED7C58-4E07-4FC5-912F-99DD1EB93937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD141A5-21EB-4B00-98F5-4B79EFB5B536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD141A5-21EB-4B00-98F5-4B79EFB5B536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD141A5-21EB-4B00-98F5-4B79EFB5B536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD141A5-21EB-4B00-98F5-4B79EFB5B536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDED7C58-4E07-4FC5-912F-99DD1EB93937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDED7C58-4E07-4FC5-912F-99DD1EB93937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDED7C58-4E07-4FC5-912F-99DD1EB93937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDED7C58-4E07-4FC5-912F-99DD1EB93937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA8D3DEB-2D9B-4877-A2E0-EDC758411482}
+	EndGlobalSection
+EndGlobal
